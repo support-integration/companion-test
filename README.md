@@ -1,1 +1,1 @@
-# companion-test
+# Companion Test
