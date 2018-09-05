@@ -1,1 +1,2 @@
 .codeclimate.yml
+cool_file.rb
