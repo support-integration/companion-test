@@ -1,2 +1,3 @@
 .codeclimate.yml
 cool_file.rb
+collective.rb # collective ownership
