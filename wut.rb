@@ -1,0 +1,3 @@
+def wut
+  'wut'
+end
