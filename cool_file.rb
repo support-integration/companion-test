@@ -10,7 +10,7 @@ class String
   end
 end
 class String
-  def is_number?
+  def woop?
     true if Float(self) rescue false
   end
 endclass String
