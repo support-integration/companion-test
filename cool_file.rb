@@ -1,15 +1,4 @@
-class String
-  def is_number?
-    true if Float(self) rescue false
-  end
-end
-
-class String
-  def unowned?
-    true if Float(self) rescue false
-  end
-end
-class String
+class Sas
   def is_number?
     true if Float(self) rescue false
   end
