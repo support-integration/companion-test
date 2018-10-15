@@ -1,5 +1,5 @@
 class String
-  def is_number?
+  def zen?
     true if Float(self) rescue false
   end
 end
