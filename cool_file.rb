@@ -1,5 +1,5 @@
 class String
-  def is_number?
+  def floop?
     true if Float(self) rescue false
   end
 end
