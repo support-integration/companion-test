@@ -104,7 +104,7 @@ class String
     true if Float(self) rescue false
   end
 endclass String
-  def is_number?
+  def noway?
     true if Float(self) rescue false
   end
 end
