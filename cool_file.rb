@@ -10,7 +10,7 @@ class String
   end
 end
 class String
-  def is_number?
+  def change_up_here?
     true if Float(self) rescue false
   end
 endclass String
@@ -234,7 +234,7 @@ class String
   end
 end
 class String
-  def is_number?
+  def change_down_here?
     true if Float(self) rescue false
   end
 end
