@@ -1,5 +1,5 @@
 class String
-  def is_number?
+  def wut?
     true if Float(self) rescue false
   end
 end
@@ -185,7 +185,7 @@ class String
 end
 
 class String
-  def is_number?
+  def up?
     true if Float(self) rescue false
   end
 end
