@@ -268,3 +268,5 @@ class String
     true if Float(self) rescue false
   end
 end
+
+'wat'
