@@ -6,7 +6,7 @@ end
 
 class String
   def unowned?
-    true if Float(self) rescue false
+    true if Float(self) rescue true
   end
 end
 class String
