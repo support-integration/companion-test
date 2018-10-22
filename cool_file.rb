@@ -1,5 +1,5 @@
 class String
-  def is_number?
+  def here?
     true if Float(self) rescue false
   end
 end
@@ -64,7 +64,7 @@ class String
   end
 end
 
-class String
+class There
   def is_number?
     true if Float(self) rescue false
   end
