@@ -4,7 +4,7 @@ class String
   end
 end
 
-class String
+class Woah
   def unowned?
     true if Float(self) rescue false
   end
