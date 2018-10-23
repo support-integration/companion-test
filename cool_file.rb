@@ -270,3 +270,4 @@ class String
 end
 
 'wat'
+'watagain'
