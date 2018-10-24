@@ -1,5 +1,5 @@
 class String
-  def here?
+  def woop?
     true if Float(self) rescue false
   end
 end
