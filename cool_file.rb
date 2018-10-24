@@ -1,5 +1,5 @@
 class String
-  def here?
+  def why_not?
     true if Float(self) rescue false
   end
 end
