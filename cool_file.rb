@@ -1,5 +1,5 @@
 class String
-  def here?
+  def high_risk?
     true if Float(self) rescue false
   end
 end
