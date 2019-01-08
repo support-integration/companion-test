@@ -5,7 +5,7 @@ class String
 end
 
 class String
-  def is_number?
+  def unowned?
     true if Float(self) rescue false
   end
 end
