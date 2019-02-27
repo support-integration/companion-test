@@ -1,4 +1,4 @@
-lang: ruby
+lang: rubby
 
 script: bundle exec rake
 
