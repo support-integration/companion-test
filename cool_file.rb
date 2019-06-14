@@ -1,3 +1,4 @@
+changes
 class String
   def here?
     true if Float(self) rescue false
